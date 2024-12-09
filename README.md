@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 Projektname
 -- Dieses Projekt verwendet die Intersection Observer API, um zu beobachten, wann bestimmte Elemente in den Ansichtsbereich (Viewport) des Benutzers kommen. Es beinhaltet auch einige zusätzliche JavascriptßFunktionen, um die Benutzererfahrung zu verbessern.
@@ -48,3 +49,6 @@ Autor
 [Henry Okeke || 1501henify]
 
 || Eine Demo-Website, die Hauptwebsite ist noch in Bearbeitung.
+=======
+# henify-Observer-API
+>>>>>>> 7255bc2aa377108063853ac79c8c40dc41dd9d3b
