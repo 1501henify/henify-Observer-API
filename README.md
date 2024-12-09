@@ -15,7 +15,7 @@ Technologien
 Installation
 
 - Klone dieses Repository;
-  git clone
+  git clone https://github.com/1501henify/henify-Observer-API
 
 - Öffne die Datei index.html in deinem bevorzugten Browser.
 
